@@ -4,7 +4,7 @@ In Lab 1 you pick a programming language and framework of your choice, then buil
 
 The goal isn't to write a large application. It's to get comfortable packaging and running a service in a container, and to understand the moving parts around it: images, containers, ports, and volumes.
 
-I have pushed this image at the following URL: ... (complete here).
+I have pushed this image at the following URL: https://hub.docker.com/layers/busgergovince/go-api-lab1/v1.0/images/sha256-69489872c800d832361bde8a20dcb925df30fdfa78eae98bf0d78d0583fd2011
 
 ---
 
